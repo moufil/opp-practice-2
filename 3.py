@@ -31,5 +31,3 @@ def main():
     print(EngAlphabet.example()) 
 if name == "__main__": 
     main()
-© 2021 GitHub, Inc.
-Terms
